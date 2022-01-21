@@ -51,5 +51,5 @@ I'm currently looking into porting to a Typescript-based tech stack that keeps t
 
 <hr>
 
-Link: <a href="https://hicss-submissions.org"><i class="large upload icon "></i>HICSS Conference System</a>
+Link: <a href="https://hicss-submissions.org">HICSS Conference System</a>
 
