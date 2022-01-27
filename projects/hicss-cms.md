@@ -47,7 +47,7 @@ As submissions begin April and the conference takes place in January, there are 
 
 I've developed the system using the [Phoenix framework](https://www.phoenixframework.org), a relational Postgres DB, and S3 for file storage. As the sole developer, I maintain the code in a private Gitlab repo. The application is hosted on AWS using mainly [AWS Fargate](https://aws.amazon.com/fargate/), [AWS RDS](https://aws.amazon.com/rds/postgresql/), [AWS S3](https://aws.amazon.com/s3), and [AWS SES](https://aws.amazon.com/ses/).
 
-I'm currently looking into porting to a Typescript-based tech stack that keeps the relational DB as is, but makes use of [React]([React](https://reactjs.org)) for frontend matters and [hasura.io](https://hasura.io) for providing a GraphQL API. While it's been a lot of fun learning the Phoenix framework, a major drawback is that it's simply lesser known, which can causes problems when trying to find other contributors for the project. 
+I'm currently looking into porting to a Typescript-based tech stack that keeps the relational DB as is, but makes use of [React](https://reactjs.org) for frontend matters and [hasura.io](https://hasura.io) for providing a GraphQL API. While it's been a lot of fun learning the Phoenix framework, a major drawback is that it's simply lesser known, which can causes problems when trying to find other contributors for the project. 
 
 <hr>
 
