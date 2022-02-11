@@ -6,7 +6,7 @@ title: When "Clever" is an Accusation.
 date: 2022-02-08
 labels:
   - Software Engineering
-  - 
+  - Tech Talks
 ---
 
 ## Software Engineering at Google
