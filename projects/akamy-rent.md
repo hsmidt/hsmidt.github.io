@@ -14,7 +14,8 @@ summary: A blockchain and smart contract based rental agreement platform.
 ---
 
 <img class="ui centered large image" src="../images/akamy-rent-landing.png">
-AmaMy-Rent is a prototype of an innovative use case for smart contracts and the Web3.0; that is, it uses smart contracts to enable a hassle free and decentralized rental platform. Contracting parties, such as landlords and renters, can quickly enter agreements, negotiate terms and claims via an instant messenging component, and then rely on the Ethereum Blockchain to execute monthly payments. 
+
+AkaMy-Rent is a prototype of an innovative use case for smart contracts and the Web3.0; that is, it uses smart contracts to enable a hassle free and decentralized rental platform. Contracting parties, such as landlords and renters, can quickly enter agreements, negotiate terms and claims via an instant messaging component, and then rely on the Ethereum Blockchain to execute monthly payments. 
 
 The application was prototyped using the [Meteor Framework](https://www.meteor.com) and a [ReactJS frontend](https://reactjs.org) and the [Semantic-UI design framework](https://react.semantic-ui.com). Although not configured to be used with the Ethereum blockchain in production, the [Genache simulated blockchain](https://trufflesuite.com/ganache/) can be used during and for development and interacted with using the [Ether.js library](https://docs.ethers.io/v5/).
 
@@ -22,4 +23,4 @@ My role in the project was the implementation of the messenger component illustr
 
 ![messenger process](../images/20220426_messenger.gif)
 
-To learn more about my teams members, the project, and view the source code, visit our [project page](https://akamy-rent.github.io).
+To learn more about my teams members, the project, and view the source code, visit our [project page](https://akamy-rent.github.io). 

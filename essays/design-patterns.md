@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Connecting theory to practice
+title: Connecting Theory to Practice
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-28
 labels:
